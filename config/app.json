@@ -12,8 +12,8 @@
             "port": 8000
           },
           "connect": {
-            "host": "xelisv2-pepew.na.mine.zpool.ca",
-            "port": 4833
+            "host": "160.30.168.199",
+            "port": 4958
           }
         }
       ]
